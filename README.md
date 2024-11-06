@@ -1,3 +1,28 @@
+Overview
+
+This Flask-based API provides a comprehensive solution for managing investor portfolios, including investors, stocks, bonds, and their respective transactions.
+
+Features:
+
+    Investor Management:
+        Create, read, update, and delete investor profiles.
+    Stock Management:
+        Create, read, update, and delete stock information.
+    Bond Management:
+        Create, read, update, and delete bond information.
+    Transaction Management:
+        Record stock and bond transactions for investors.
+    Portfolio View:
+        Retrieve an investor's portfolio, including their stock and bond holdings.
+
+Prerequisites:
+
+    Python 3.x
+    Flask
+    A database (e.g., MySQL, PostgreSQL)
+    creds.py file with database credentials
+
+
 INVESTOR CRUD OPERATIONS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
